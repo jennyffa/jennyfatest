@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./freshweb.css"/>
+</head>
+<body>
+   <main>
+       <header>
+           <div id="head">
+               <div id="nav-brand">
+                   <h2>YOUNIQUE</h2>
+               </div>
+               <nav>
+                   <ul>
+                       <li><a href=""class="active">Home</a></li>
+                       <li><a href="">About</a></li>
+                       <li><a href="">Features</a></li>
+                       <li><a href="">Gallery</a></li>
+                       <li><a href="">Contact</a></li>
+                       <li><a href="">FAQ</a></li>
+                   </ul>
+               </nav>
+               <div id="btn">
+                   <button>SIGN UP</button>
+               </div>
+           </div>
+           <div id="cen">
+               <div>
+                   <img src="../images/mobilephone.jpeg" width="200" height="400" alt=""/>
+               </div>
+               <div class="text">
+                   <h3>
+                       Start your amazing stuff through Younique.
+                   </h3>
+                   <p>
+                       What do you have to say about younique. It is a blend of unique qualities from a unique, complete and whole individual with a confidence gotten from the assurance of who resides in them, who is greater than the human mind can imagine.    
+                   </p>
+                   <div>
+                   <button>
+                       DOWNLOAD APP
+                   </button>
+                   </div>
+
+               </div>
+           </div>
+
+           <nav>
+
+           </nav>
+       </header>
+   </main> 
+</body>
+</html>
